@@ -8,7 +8,6 @@
 #Libraries
 
 import pfam
-#from beeprint import pp
 import sys
 import requests
 
