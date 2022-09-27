@@ -4,8 +4,6 @@ Simple code to get PFAM (Protein Family Database) data directly from the website
 For usage, `pfam` library is necessary. To install, please refer to:
 >https://github.com/AlbertoBoldrini/python-pfam
 
-The `beeprint` package is also necessary for some data visualization (not mandatory).
-
 ## Example:
 ```
 python3 get_pfam_data family_name alignment_type
